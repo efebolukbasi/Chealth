@@ -1,0 +1,2 @@
+pywin32==310
+keyboard==0.13.5 
