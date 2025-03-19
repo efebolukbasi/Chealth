@@ -29,7 +29,7 @@ Chealth creates a transparent overlay window that:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YourUsername/Chealth.git
+git clone https://github.com/efebolukbasi/Chealth.git
 cd Chealth
 ```
 
@@ -82,4 +82,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details. 
